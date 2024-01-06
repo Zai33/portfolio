@@ -32,7 +32,7 @@ const Portfolio = () => {
     <div name='portfolio' className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen'>
       <div className='max-w-screen-lg mx-auto px-4 flex flex-col w-full h-full justify-center'>
 
-        <div className='pb-8'>
+        <div className='pb-8 mt-14'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-400'>
             Portfolio
           </p>

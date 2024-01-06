@@ -4,13 +4,13 @@ const About = () => {
   return (
     <div name="about" className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
         <div className='max-w-screen-lg px-4 mx-auto flex flex-col justify-center w-full h-full'>
-            <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
+            <div className='pb-8 mt-5'>
+                <p className='text-4xl font-bold inline border-b-4 border-gray-500 '>
                     About
                 </p>
             </div>
-            <p className='text-xl mt-10'>
-                I'm Kyawgyi, and the world of code calls to me like a siren song. 
+            <p className='text-xl '>
+                I'm Kyaw Zin win Htike, and the world of code calls to me like a siren song. 
                 I'm a computer science student on a mission to transform my passion for technology into a career as a frontend developer.
                  With each line of code, I'm building my path, one pixel at a time. 
                  HTML, CSS, and JavaScript—these are my tools, my paintbrushes, shaping digital landscapes that captivate and engage.

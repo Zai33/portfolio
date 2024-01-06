@@ -30,7 +30,7 @@ const Body = () => {
 
         </div>
 
-        <div>
+        <div className=''>
           <img 
             src={require("../assets/kyawkyi.jpg")} 
             alt='My Profile' 
